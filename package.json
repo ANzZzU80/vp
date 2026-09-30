@@ -1,0 +1,30 @@
+{
+  "name": "vp",
+  "version": "1.0.0",
+  "description": "Veebiprogrammerimise tunnitoo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ANzZzU80@github.com/ANzZzU80/vp.git"
+  },
+  "keywords": [
+    "javasctipt",
+    "veebiprogrammeerimine",
+    "õppetöö",
+    "TLU",
+    "DTI"
+  ],
+  "author": "Anna Kartasheva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANzZzU80/vp/issues"
+  },
+  "homepage": "https://github.com/ANzZzU80/vp#readme",
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1"
+  }
+}
